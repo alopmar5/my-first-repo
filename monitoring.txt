@@ -1,0 +1,4 @@
+# Patient Monitoring Systems
+
+These systems continuously track vital signs like heart rate and SpO2.
+They use sensors to convert physiological signals into digital data.
